@@ -15,7 +15,7 @@ This program reads an xlsx file or csv and looks for 3
 columns: Items, Lines, and Warehouses.
 It will then ask which warehouses you want added in a space separated list.
 Once it is complete it will save it as a csv that is ready to be uploaded to
-the SAP B1 DTW.
+the SAP B1 DTW (data transfer workbench).
 '''
 
 
